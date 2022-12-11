@@ -170,7 +170,6 @@ img {
   padding: 192px 0;
   background-image: linear-gradient(#2E2F42a6, #2E2F42a6), url('./images/people-office.jpg');
   background-position: center;
-  background-size: contain;
   background-repeat: no-repeat;
 }
 
